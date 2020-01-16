@@ -1,0 +1,12 @@
+.root {
+    width: '100%',
+    /* overflow= 'auto' */
+  }
+.tablem {
+    min-Width: 650,
+  }
+h2{
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 25%;
+}

@@ -1,0 +1,16 @@
+.root{
+    width: 75%;
+    
+    margin: 110px auto;
+    overflow-x: 'auto';
+
+    
+  }
+  .btable {
+    min-Width: 700,
+  }
+
+ h3{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-decoration: underline;
+ }

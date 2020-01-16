@@ -1,0 +1,32 @@
+.acontainer {
+ opacity: .5;
+ margin-top:85px;
+ width: 37%;
+
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    opacity: 1;
+    padding: 25px;
+}
+
+.row {
+    padding-left: 55px;
+}
+.input-field{
+opacity: 1;
+text-align: center;
+
+}
+
+
+button{
+    color: #fff;
+}
+

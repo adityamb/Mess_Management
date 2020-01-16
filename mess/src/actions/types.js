@@ -1,0 +1,6 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_CURRENT_USER = "GET_CURRENT_USER";
+export const ADD_MESS_CUT="ADD_MESS_CUT";
+export const SHOW_MESS_CUTS="SHOW_MESS_CUTS"
+
